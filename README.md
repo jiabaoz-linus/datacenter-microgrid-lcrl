@@ -2,7 +2,7 @@
 
 Research code for **Reliability Modeling and Optimization of Networked Data Center Microgrids Based on Lyapunov Constrained Reinforcement Learning**.
 
-Hongyan Dui, Sihan Li, Jiabao Zhai, and Liudong Xing
+H. Dui*, S. Li, J. Zhai, and L. Xing*
 
 This repository implements a simulator for a data center microgrid connected to a community microgrid and a Lyapunov-constrained reinforcement learning (LCRL) controller. The experiment suite compares LCRL with seven RL baselines and a model predictive control (MPC) benchmark, evaluates task-period reliability by Monte Carlo simulation, and includes ablations and sensitivity studies.
 
@@ -25,4 +25,4 @@ The simulator generates synthetic workloads, ambient temperatures, renewable gen
 
 If you use this code in your research, please cite the accompanying manuscript.
 
-> Hongyan Dui, Sihan Li, Jiabao Zhai, and Liudong Xing. *Reliability Modeling and Optimization of Networked Data Center Microgrids Based on Lyapunov Constrained Reinforcement Learning*.
+> H. Dui*, S. Li, J. Zhai, and L. Xing*. *Reliability Modeling and Optimization of Networked Data Center Microgrids Based on Lyapunov Constrained Reinforcement Learning*.
